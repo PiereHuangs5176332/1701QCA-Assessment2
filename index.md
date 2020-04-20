@@ -23,6 +23,15 @@ This project is related to mine because they have used some kind of "motor" to k
 
 This project is related to mine because they have also used motor in their project, where they use the motor to shake the bottle which while the bottle is shaking the bottle moves from its initial position, we kind of share to same concept on motors and this is also one of the project people can play for a long time and spend time watching it while doing nothing which is what I am looking for for my project.
 
+### Related project 2 ###
+*Kinetic Wall: Arduino Spiral Wall*
+
+*https://www.youtube.com/watch?v=RiGKk-7Hwhg*
+
+![Image](126.png)
+
+This project is related to mine because they have also used motor in their project, in this project, they use the motor connected with lines to make amazing art, and the visual is really great while the lines tangle into each other and changes shape. As the lines rotate into one direction it shrinks and in other direction is expands which creats amazing visual interaction with the audiences. 
+
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
