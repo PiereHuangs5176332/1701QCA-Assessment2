@@ -62,24 +62,22 @@ This project is related to mine because what they have created is fun, not usefu
 
 
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
+*I have also gone through experiment 4 from the inventor's kit to get a better understanding of how the motor works, the coding and how to connect it with the microbits.*
 
 ### *Brief resource name/description* ###
 
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
+*Everything in my project and process can all be found with a link in my Assessment 2 page under each section where I have referenced either a video, picture or process.*
 
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+*An machine/device that has no other use than just entertainment really*
 
 ### Design concept 1 ###
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
-
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
+A car kind of toy that will move away from users once it is turned on. So the idea of this concept is to create a car toy that will keep moving away from the user once it is turned on, and you will never know which way it will be going the next second, therefore the toy car will be incredibly hard to catch.
 
 ### Design concept 2 ###
-*Put details here.*
+An on/off switch that switches it self off like the "useless box" or shares the same concept, just a thing that keeps the users entertained.
 
 ### Final design concept ###
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
