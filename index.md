@@ -76,6 +76,8 @@ This project is related to mine because what they have created is fun, not usefu
 ### Design concept 1 ###
 A car kind of toy that will move away from users once it is turned on. So the idea of this concept is to create a car toy that will keep moving away from the user once it is turned on, and you will never know which way it will be going the next second, therefore the toy car will be incredibly hard to catch.
 
+[Image](WechatIMG277.jpeg)
+
 ### Design concept 2 ###
 An on/off switch that switches it self off like the "useless box" or shares the same concept, just a thing that keeps the users entertained.
 
