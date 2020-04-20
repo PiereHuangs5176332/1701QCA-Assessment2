@@ -95,10 +95,10 @@ But unfortunally this concept also ended as a failure, as trying to use the same
 
 What I came up with in the end was an spinning platform made from condensed foam witch is really light, and the motor was able to give it a good spin. This final prototype actually came from another failure concept that I have tried when everything was failing, and that was the display platform, it shares the same concept as the spinning platform, but with the display platform I need it to place something onto the platform for it to "display" but when I try to display something on to it, the condensed foam breaks as it it too light to be haveing pressure on it, there for I have to come up with another idea/concept again. 
 Here is a video of it fully functioning : https://youtu.be/cZ09OXe5B98
-### Interaction flowchart ###
-*Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+### Interaction flowchart ###
+![Image](WechatIMG279.jpeg)
+What I do not want and expect the user to do is to put their hands into or onto the spinning platform, as users could breake the whole project or hurt themselves by the high speed spinning platform, as the intention of this was for users to look at, and the aim of the project was for users to lose trac of time while looking at it. 
 
 ## Physical experimentation documentation ##
 
