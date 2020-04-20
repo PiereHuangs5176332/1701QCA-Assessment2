@@ -10,9 +10,9 @@ The name of the project is: "Time Killer" as time flies when you are interacting
 
 *https://www.youtube.com/watch?v=dvDHNDkO-Qo&list=PL12khZdzeRtoa8XrdM8bo_OIkioB6ffU3&index=33&t=16s*
 
-![Image](missingimage.png)
+![Image](124.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because they have used some kind of "motor" to keep the colors changing and spinning, where in my project, I have also used a motor, and in one of my very first attempt of my project I though of the same conecpt where i have a big scroll that changes color as well. .
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
