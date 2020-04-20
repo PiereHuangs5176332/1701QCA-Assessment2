@@ -139,6 +139,7 @@ As for the final, I got something to work, and it wasn't too bad, I had to stick
 ## Design process discussion ##
 ![Image](WechatIMG280.jpeg)
 The process of this whole project was kind of a disaster, as my concepts keeps failing, half way of making this project I was feeling really down on how everything was not working and I couldn't find a solution to solve the problems I have encounter, but I guess never giving up brings some good news that the end that finally I got something working, and all that is left is too make it more good looking and better functional as it is only a prototype. Finally with something working now, all I need to focus now is how can I make this a better project. 
+There were definitly something that I could have done different that could change the result of many things, more consultation with my tutors would have helped alot while everything wasn't working for me, will defninitly keep that in mind and will engage with the tutors more in the future.
 ## Next steps ##
 *Moving forward into the future with the project from the prototype:
 1. Make it better looking: cover up the microbit, an better looking platform
