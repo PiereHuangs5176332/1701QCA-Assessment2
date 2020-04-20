@@ -12,7 +12,16 @@ The name of the project is: "Time Killer" as time flies when you are interacting
 
 ![Image](124.png)
 
-This project is related to mine because they have used some kind of "motor" to keep the colors changing and spinning, where in my project, I have also used a motor, and in one of my very first attempt of my project I though of the same conecpt where i have a big scroll that changes color as well. .
+This project is related to mine because they have used some kind of "motor" to keep the colors changing and spinning, where in my project, I have also used a motor, and in one of my very first attempt of my project I though of the same conecpt where i have a big scroll that changes color as well.
+
+### Related project 2 ###
+*Shack motor toy*
+
+*https://www.youtube.com/watch?v=FZdWRTowAf8&list=PL12khZdzeRtoa8XrdM8bo_OIkioB6ffU3&index=34&t=6s*
+
+![Image](125.png)
+
+This project is related to mine because they have also used motor in their project, where they use the motor to shake the bottle which while the bottle is shaking the bottle moves from its initial position, we kind of share to same concept on motors and this is also one of the project people can play for a long time and spend time watching it while doing nothing which is what I am looking for for my project.
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
