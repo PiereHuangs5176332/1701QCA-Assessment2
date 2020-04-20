@@ -108,7 +108,27 @@ Since I have failed many times with my concept, I will be sharing the failure co
 ![Image](14.png)
 ![Image](15.png)
 ![Image](16.png)
+
 Within all the coding experiments, I have also tried to make the motor spin in the opposite direction by using code, but it resulted in a failure.
+
+![Image](001.jpeg)
+![Image](002.jpeg)
+![Image](003.jpeg)
+![Image](004.jpeg)
+![Image](005.jpeg)
+![Image](006.jpeg)
+![Image](007.jpeg)
+![Image](008.jpeg)
+![Image](009.jpeg)
+![Image](010.jpeg)
+![Image](011.jpeg)
+![Image](012.jpeg)
+![Image](013.jpeg)
+![Image](014.jpeg)
+![Image](015.jpeg)
+![Image](016.jpeg)
+![Image](017.jpeg)
+
 ## Design process discussion ##
 ![Image](WechatIMG280.jpeg)
 
