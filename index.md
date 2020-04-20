@@ -52,13 +52,13 @@ This project is related to mine because they use a thing called "Arduino Servo S
 An carousel is related to my project is becasue it is controlled by an giant motor for it to spin, and in my final version of my project after many different attempts, I have came up with something similar to an carousel. Where in my project the motor controls my platform to spin, I believe that my project shares the same concept with the carousel.
 
 ### Related project 6 ###
-**
+*Baby-Burping Robot*
 
-**
+*https://www.youtube.com/watch?v=7zb5gKw6q3o*
 
-![Image](126.png)
+![Image](129.png)
 
-This project is related to mine because they
+This project is related to mine because what they have created is fun, not useful and really entertaining, where it is what I really am aiming for in my project, but also I think that they have used an motor for the robot to spin in a high speed, after all this project is like my final design fantasy where it has all the elements I am looking for in an project.
 
 
 ## Other research ##
