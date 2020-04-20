@@ -134,9 +134,14 @@ Using the paper and scrolling them into a pole like center, I then connected to 
 With everything failing, I then though of maybe I can create something like an item displayer, so I  have created an spinning platform with condensed foam which was finally light enough for the motor to spin it, but for this item displayer, I needed the motor to spin the platform with a line connecting the platform and the motor within the gap in the platform, but the line had no friction for the motor to spin it, so I changed the line into rubber bands, but when switching to rubber bands, the motor again don't have enough force to spin the rubberband as it creates too much friction, so I had to think of an different idea again. 
 ![Image](016.jpeg)
 ![Image](017.jpeg)
+As for the final, I got something to work, and it wasn't too bad, I had to stick the tip of the papers together so when it spins it doesn't expand and hit the microbits, and when it is sticked together, upon when it's spinning it kind of looks like an flower which is pretty cool. 
 
 ## Design process discussion ##
 ![Image](WechatIMG280.jpeg)
-
+The process of this whole project was kind of a disaster, as my concepts keeps failing, half way of making this project I was feeling really down on how everything was not working and I couldn't find a solution to solve the problems I have encounter, but I guess never giving up brings some good news that the end that finally I got something working, and all that is left is too make it more good looking and better functional as it is only a prototype. Finally with something working now, all I need to focus now is how can I make this a better project. 
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+*Moving forward into the future with the project from the prototype:
+1. Make it better looking: cover up the microbit, an better looking platform
+2. Maybe the platform can stop at somepoint then spin again
+3. Add more elements into the project
+These are the key points I  can think off now that I need improvements in my project, as more research done in the future, more can come up, I will be looking forward to it and hoping that everything works out for me in thsi project.*
