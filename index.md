@@ -87,8 +87,13 @@ An on/off switch that switches it self off like the "useless box" or shares the 
 
 After some attempt: After a few attempts with this concept, I have failed with creating an on/off switch for the project, and the line puller didnt work out as i expected where I tried to use the motor as an line puller but there was no switch for the motor to pull, and the other issue i have came accross was that the motor only spins in one direction, for it to change direction i would have to switch the lines connecting the motor around, in result of that this concept ended inan failure.
 ### Final design concept ###
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
+*An slide of different colors that just keep sliding in a circle, where you can look at it for ages and do nothing, this concept is similar to the related projects 1. *
 
+But unfortunally this concept also ended as a failure, as trying to use the same concept with the related project 1 "forever 21" I have used toilet rolles (as they are the lightest and most stable material i can find) to create a scroll for color papers to spin on, but after connecting with the motor, the motor couldn't create enough force to spin the scroll, and after changing the materialls to think sticks (wood) it was still to heavy for the motor to spin, in my final attempt i have tried using paper to scroll them into a scroll, but the results were the same, and my concept ended in a failure so I had to came up with something different. 
+![Image](haha.jpeg)
+![Image](ha2.jpeg)
+
+What i came up with in the end was an spinning platform.
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
