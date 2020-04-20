@@ -23,7 +23,7 @@ This project is related to mine because they have used some kind of "motor" to k
 
 This project is related to mine because they have also used motor in their project, where they use the motor to shake the bottle which while the bottle is shaking the bottle moves from its initial position, we kind of share to same concept on motors and this is also one of the project people can play for a long time and spend time watching it while doing nothing which is what I am looking for for my project.
 
-### Related project 2 ###
+### Related project 3 ###
 *Kinetic Wall: Arduino Spiral Wall*
 
 *https://www.youtube.com/watch?v=RiGKk-7Hwhg*
@@ -31,6 +31,35 @@ This project is related to mine because they have also used motor in their proje
 ![Image](126.png)
 
 This project is related to mine because they have also used motor in their project, in this project, they use the motor connected with lines to make amazing art, and the visual is really great while the lines tangle into each other and changes shape. As the lines rotate into one direction it shrinks and in other direction is expands which creats amazing visual interaction with the audiences. 
+
+### Related project 4 ###
+*Kinetic Origami with Arduino Servo Sketch*
+
+*https://www.youtube.com/watch?v=AXsCaOo4FBI*
+
+![Image](127.png)
+
+This project is related to mine because they use a thing called "Arduino Servo Sketch" where it kind of works like an motor, and in this project it was connected with a line where the line is connected to the origami, and as the motor spins, the origami expands and shrinks which creats an amazing visual effect for viewers. 
+
+
+### Related project 5 ###
+**
+
+**
+
+![Image](126.png)
+
+This project is related to mine because they
+
+### Related project 6 ###
+**
+
+**
+
+![Image](126.png)
+
+This project is related to mine because they
+
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
