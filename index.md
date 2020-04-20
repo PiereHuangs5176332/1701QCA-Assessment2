@@ -101,18 +101,16 @@ Here is a video of it fully functioning : https://youtu.be/cZ09OXe5B98
 What I do not want and expect the user to do is to put their hands into or onto the spinning platform, as users could breake the whole project or hurt themselves by the high speed spinning platform, as the intention of this was for users to look at, and the aim of the project was for users to lose trac of time while looking at it. 
 
 ## Physical experimentation documentation ##
-
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
-
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
-
-![Image](missingimage.png)
-
+Since I have failed many times with my concept, I will be sharing the failure concepts process with the only concept that was a success compare to the other concepts. Starting with the coding experiemtns with the motor, i ahve tried different motor power/spin power, and I have found out that higher the number is the more power the motore provides and that goes for the opposite as well, but after all the motor couldn't provide enough power for my other concepts. 
+![Image](11.png)
+![Image](12.png)
+![Image](13.png)
+![Image](14.png)
+![Image](15.png)
+![Image](16.png)
+Within all the coding experiments, I have also tried to make the motor spin in the opposite direction by using code, but it resulted in a failure.
 ## Design process discussion ##
-*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
+![Image](WechatIMG280.jpeg)
 
 ## Next steps ##
 *Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
