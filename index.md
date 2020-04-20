@@ -47,7 +47,7 @@ This project is related to mine because they use a thing called "Arduino Servo S
 
 *https://www.lemaxcollection.com/villages/caddington/sights-and-sounds/the-grand-carousel-84349*
 
-![Image](12.png)
+![Image](128.png)
 
 An carousel is related to my project is becasue it is controlled by an giant motor for it to spin, and in my final version of my project after many different attempts, I have came up with something similar to an carousel. Where in my project the motor controls my platform to spin, I believe that my project shares the same concept with the carousel.
 
