@@ -6,9 +6,9 @@ The name of the project is: "Time Killer" as time flies when you are interacting
 ## Related projects ##
 
 ### Related project 1 ###
-*Insert name of project*
+*Forever 21 Thread Screen*
 
-*Insert URL to project*
+*https://www.youtube.com/watch?v=dvDHNDkO-Qo&list=PL12khZdzeRtoa8XrdM8bo_OIkioB6ffU3&index=33&t=16s*
 
 ![Image](missingimage.png)
 
