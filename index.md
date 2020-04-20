@@ -78,9 +78,14 @@ A car kind of toy that will move away from users once it is turned on. So the id
 
 ![Image](2.png)
 
+After some attempt: After a few attempts on trying to complete this concept, I have failed in creating an motor based toy car, and also that the motor was not able to create enough power to carry the whole breadboard and microbit for an paper made car to move, therefore this concept ended in a failure.
+
 ### Design concept 2 ###
 An on/off switch that switches it self off like the "useless box" or shares the same concept, just a thing that keeps the users entertained.
 
+![Image](WechatIMG278.jpeg)
+
+After some attempt: After a few attempts with this concept, I have failed with creating an on/off switch for the project, and the line puller didnt work out as i expected where I tried to use the motor as an line puller but there was no switch for the motor to pull, and the other issue i have came accross was that the motor only spins in one direction, for it to change direction i would have to switch the lines connecting the motor around, in result of that this concept ended inan failure.
 ### Final design concept ###
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
 
